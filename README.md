@@ -1,6 +1,6 @@
 # Car Price Predictor
 
-Project link: https://car-price-price.herokuapp.com
+
 Demo Video: https://youtu.be/HEaFU68WAPM
 
 <img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png">
@@ -11,7 +11,6 @@ Demo Video: https://youtu.be/HEaFU68WAPM
 
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
 
-<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/predict.png">
 
 ## How to use?
 
