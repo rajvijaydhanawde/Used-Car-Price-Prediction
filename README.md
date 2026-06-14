@@ -3,7 +3,7 @@
 
 Demo Video: https://youtu.be/HEaFU68WAPM
 
-<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png">
+<img src="[https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.pn](https://github.com/rajvijaydhanawde/Used-Car-Price-Prediction/blob/main/demo.png)">
 
 
 
